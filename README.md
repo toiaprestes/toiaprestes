@@ -1,5 +1,6 @@
-- 👋 Olá, me chamo @toiaprestes
-- 📫 Meu email de contato é victoria.estefaniaprestes.correa@escola.pr.gov.br
-- 👀 Eu estou interessada em aprender a programar novas linguagens
-- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scrath
+Olá, me chamo Victoria e sou apaixonada por livros de romance!
+Comecei a ler em novembro de 2021, desde então me apaixonei por livros. O objetivo deste site é compartilhar minha opnião sobre os (poucos) livros que tenho lido e influencia-los a ler também.
+Até agora li 4 livros, então ainda não me considero uma leitora. 
 
+.LÁGRIMA DE VIDRO - GABRIELA COSTA (ALERTA de talvez spoiler)
+Ficção, romance e cristão. 
